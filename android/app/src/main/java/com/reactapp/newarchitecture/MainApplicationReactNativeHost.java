@@ -1,4 +1,4 @@
-package vn.com.vndirect.cudau.newarchitecture;
+package com.reactapp.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import vn.com.vndirect.cudau.BuildConfig;
-import vn.com.vndirect.cudau.newarchitecture.components.MainComponentsRegistry;
-import vn.com.vndirect.cudau.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.reactapp.BuildConfig;
+import com.reactapp.newarchitecture.components.MainComponentsRegistry;
+import com.reactapp.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package vn.com.vndirect.cudau.newarchitecture.modules;
+package com.reactapp.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

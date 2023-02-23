@@ -1,4 +1,4 @@
-package vn.com.vndirect.cudau.newarchitecture.components;
+package com.reactapp.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;
